@@ -54,8 +54,8 @@ ul{
 
 
 .boxx1{
-    height: 100px;
-    width: 100px;
+    height: 7vw;
+    width: 7vw;
     left: 2vw;
     background-color: #98b7c5;
     transform: rotate(45deg);
@@ -68,8 +68,8 @@ ul{
     opacity: 30%;
 }
 .boxx2{
-    height: 100px;
-    width: 100px;
+    height: 7vw;
+    width: 7vw;
     left: 12vw;
     background-color: #98b7c5;
     transform: rotate(45deg);
@@ -83,8 +83,8 @@ ul{
     animation-delay: -8s;
 }
 .boxx3{
-    height: 100px;
-    width: 100px;
+    height: 7vw;
+    width: 7vw;
     left: 22vw;
     background-color: #98b7c5;
     transform: rotate(45deg);
@@ -97,8 +97,8 @@ ul{
     opacity: 30%;
 }
 .boxx4{
-    height: 100px;
-    width: 100px;
+    height: 7vw;
+    width: 7vw;
     left: 32vw;
     background-color: #98b7c5;
     transform: rotate(45deg);
@@ -112,8 +112,8 @@ ul{
     animation-delay: -8s;
 }
 .boxx5{
-    height: 100px;
-    width: 100px;
+    height: 7vw;
+    width: 7vw;
     left: 42vw;
     background-color: #98b7c5;
     transform: rotate(45deg);
@@ -126,8 +126,8 @@ ul{
     opacity: 30%;
 }
 .boxx6{
-    height: 100px;
-    width: 100px;
+    height: 7vw;
+    width: 7vw;
     left: 52vw;
     background-color: #98b7c5;
     transform: rotate(45deg);
@@ -150,9 +150,9 @@ ul{
 
 .X1{
     background-color: transparent;
-    height: 20px;
-    width: 20px;
-    font-size: 20px;
+    height: 2vw;
+    width: 2vw;
+    font-size: 2vw;
     font-weight: bold;
     font-family: 'Baloo Bhaina 2', cursive;
     transform: rotate(45deg);
@@ -167,9 +167,9 @@ ul{
 
 .X2{
     background-color: transparent;
-    height: 20px;
-    width: 20px;
-    font-size: 20px;
+    height: 2vw;
+    width: 2vw;
+    font-size: 2vw;
     font-weight: bold;
     font-family: 'Baloo Bhaina 2', cursive;
     transform: rotate(45deg);
@@ -184,9 +184,9 @@ ul{
 }
 .X3{
     background-color: transparent;
-    height: 20px;
-    width: 20px;
-    font-size: 20px;
+    height: 2vw;
+    width: 2vw;
+    font-size: 2vw;
     font-weight: bold;
     font-family: 'Baloo Bhaina 2', cursive;
     transform: rotate(45deg);
@@ -200,9 +200,9 @@ ul{
 }
 .X4{
     background-color: transparent;
-    height: 20px;
-    width: 20px;
-    font-size: 20px;
+    height: 2vw;
+    width: 2vw;
+    font-size: 2vw;
     font-weight: bold;
     font-family: 'Baloo Bhaina 2', cursive;
     transform: rotate(45deg);
@@ -217,9 +217,9 @@ ul{
 }
 .X5{
     background-color: transparent;
-    height: 20px;
-    width: 20px;
-    font-size: 20px;
+    height: 2vw;
+    width: 2vw;
+    font-size: 2vw;
     font-weight: bold;
     font-family: 'Baloo Bhaina 2', cursive;
     transform: rotate(45deg);
@@ -233,9 +233,9 @@ ul{
 }
 .X6{
     background-color: transparent;
-    height: 20px;
-    width: 20px;
-    font-size: 20px;
+    height: 2vw;
+    width: 2vw;
+    font-size: 2vw;
     font-weight: bold;
     font-family: 'Baloo Bhaina 2', cursive;
     transform: rotate(45deg);
@@ -250,9 +250,9 @@ ul{
 }
 .X7{
     background-color: transparent;
-    height: 20px;
-    width: 20px;
-    font-size: 20px;
+    height: 2vw;
+    width: 2vw;
+    font-size: 2vw;
     font-weight: bold;
     font-family: 'Baloo Bhaina 2', cursive;
     transform: rotate(45deg);
